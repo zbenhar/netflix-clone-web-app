@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Here is the link to the web-app: https://netflix-clone-2d170.web.app/
+Here is the link to the web-app: https://netflix-clone-2d170.web.app/     (able to play trailers of Netflix Originals)
 
 ## Available Scripts
 
